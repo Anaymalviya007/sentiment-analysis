@@ -3,7 +3,7 @@
 This project consists of a Python Flask backend and a React frontend. The backend fetches comments from a specific Facebook post and analyzes their sentiment using the TextBlob library. The frontend displays the comments and their sentiment analysis.
 
 
-![Demo Image](images/demo.png)
+![Demo Image](./Images/demo.png)
 ## Setup
 
 ### Backend
